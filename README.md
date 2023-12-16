@@ -10,6 +10,7 @@ Algorithm Design: Merancang algoritma atau langkah-langkah terperinci yang diamb
 
 
 2.Menjelaskan Jenis-Jenis Mesin Komputasi
+    
     Jenis-jenis mesin komputasi dapat dibagi menjadi beberapa kategori, antara lain:
 a. Komputer pribadi
 Personal Computer (PC): Merupakan jenis komputer yang biasanya digunakan untuk keperluan pribadi atau perkantoran. PC terdiri dari beberapa komponen seperti CPU, monitor, keyboard, dan mouse.
@@ -33,7 +34,8 @@ Komputer Analog: Merupakan jenis komputer yang menggunakan sinyal analog untuk m
 g.Komputer Hybrid: Merupakan jenis komputer yang menggabungkan sinyal digital dan analog untuk memproses data.
 
 
-3. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal 
+3. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal
+   
    Jurnal adalah publikasi ilmiah yang memuat artikel-artikel hasil penelitian yang telah selesai dilaksanakan dan telah memperoleh hasil. Artikel dipublikasikan sesuai periode tertentu oleh jurnal. Ada jurnal yang mempublikasikan artikel per 6 bulan, per 3 bulan atau bahkan ada per 1 bulan.
 
 Conference adalah wadah bertemunya para peneliti/akademisi/praktisi untuk menyampaikan penelitiannya yang sedang berjalan ke sesama peneliti dalam bidang yang sama (dalam bentuk manuskrip) dengan tujuan untuk mendapat masukan dari peserta lainnya, agar ada perbaikan dari penelitiannya. Manuskrip yang dipresentasikan dalam conference juga mesti melewati proses review.
