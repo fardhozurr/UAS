@@ -74,7 +74,7 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 
 ```mermaid
 graph TD
-  Algoritma
+  subgraph Algoritma
     A[Input]
     B[Manage]
     C[Login]
