@@ -272,9 +272,13 @@ https://drive.google.com/file/d/1tzJRfHCe6v_G3C-mzT9dKR0fJvzLGe3t/view?usp=shari
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
-## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
-## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+Topik yang diminati = Roadmap to becoming a Game Developer in 2023
+
+## Eksplorasi Top Github Project yang Diminati ⭐⭐
+Berikut tentang github project yang diminati :
+Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 Saya telah membuat akun Linkedin dan memfollow beberapa akun inspiratif. Berikut link profil akun saya :
