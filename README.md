@@ -72,6 +72,22 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
+```mermaid
+graph TD
+  Algoritma
+    A[Input]
+    B[Manage]
+    C[Login]
+    D[Make List]
+  end
+
+  A --> B
+  B --> D
+  C --> A
+  C --> D
+ 
+
+
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 Referensi [1](https://scratch.mit.edu/)
