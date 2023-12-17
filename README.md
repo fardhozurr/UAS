@@ -38,7 +38,7 @@ g.Komputer Hybrid: Merupakan jenis komputer yang menggabungkan sinyal digital da
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
 Saya sudah mengaktifkan google colab dan melakukan percobaan tentang bagaimana memperkenalkan diri dengan sejumlah identitas. Berikut link percobaan perkenalan yang dibuat di akun google colab :
-https://colab.research.google.com/drive/1BeLoZJW5sb2XTgIcEmgQbgYCilMBj73J?usp=sharing
+[https://colab.research.google.com/drive/1BeLoZJW5sb2XTgIcEmgQbgYCilMBj73J?usp=sharing](https://colab.research.google.com/drive/1BeLoZJW5sb2XTgIcEmgQbgYCilMBj73J?usp=sharing)
 
 ## Mencoba Console Sistem Operasi
 ### Windows CMD [v] ⭐⭐⭐⭐
@@ -68,6 +68,8 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
+Saya telah mencoba Terminal Linux dengan menggunakan google colab. Berikut adalah link terminal linux dengan membuat contoh seperti surat terbuka untuk ibu : https://colab.research.google.com/drive/1QFC_MzULq4eDcQan-CmOsniW-O1bR6Oq?usp=sharing
+
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 
@@ -90,12 +92,49 @@ Referensi [1](https://scratch.mit.edu/)
 
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+public class BubbleSortExample {
+    static void bubbleSort(int[] arr) {
+        int n = arr.length;
+        int temp = 0;
+        for(int i=0; i < n; i++) {
+            for(int j=1; j < (n-i); j++) {
+                if(arr[j-1] > arr[j]) {
+                    //swap elements
+                    temp = arr[j-1];
+                    arr[j-1] = arr[j];
+                    arr[j] = temp;
+                }
+            }
+        }
+    }
+     public static void main(String[] args) {
+        int arr[] ={3,60,35,2,45,320,5};
+        System.out.println("Array Before Bubble Sort");
+        for(int i=0; i < arr.length; i++) {
+            System.out.print(arr[i] + " ");
+        }
+        System.out.println();
+
+        bubbleSort(arr);//sorting array elements using bubble sort
+
+        System.out.println("Array After Bubble Sort");
+        for(int i=0; i < arr.length; i++) {
+            System.out.print(arr[i] + " ");
+        }
+    }
+}
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
+Saya telah mendaftar dan mengeksplorasi Penggunaan HackerRank. Berikut link profil akun HckerRank yang saya buat dan Bukti Ekssplorasi tentang Java (Loops) dari akun yang saya baut: https://www.hackerrank.com/profile/koushikizurro1
+![image](https://github.com/fardhozurr/UAS/assets/149001449/b0ee7be2-6608-4b03-ac08-ef9ad4068450)
+
+
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+
+Link YouTubw :
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
@@ -112,9 +151,36 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
+  Halo, ini adalah Fardho Zurrahman. Saya dapat membantu Anda mempelajari tentang penggunaan web browser untuk mengakses halaman web HTML.
+Web browser adalah program yang memungkinkan Anda untuk melihat konten web di internet. HTML adalah bahasa yang digunakan untuk membuat dan mendesain halaman web. Untuk mengakses dokumen HTML di browser, Anda perlu mengetahui alamat URL (Uniform Resource Locator) dari halaman web yang ingin Anda lihat. URL adalah teks yang menunjukkan lokasi sumber web, seperti https://www.bing.com/.
+Ada banyak cara untuk mengakses dokumen HTML di browser, yaitu:
+Mengetikkan URL di bilah alamat browser dan menekan Enter. Ini akan memuat halaman web yang sesuai dengan URL tersebut.
+Mengklik tautan yang mengarah ke dokumen HTML di halaman web lain. Ini akan membuka halaman web baru di tab atau jendela browser Anda.
+Membuka dokumen HTML yang tersimpan di komputer Anda dengan menggunakan menu Buka Dengan atau menyeret dan menjatuhkan file ke browser. Ini akan menampilkan halaman web yang dibuat oleh dokumen HTML tersebut.
+Anda dapat menggunakan browser web apa pun untuk mengakses dokumen HTML, seperti Google Chrome, Firefox, Safari, atau Edge. Browser web berbeda dalam hal fitur, kecepatan, dan keamanan, tetapi semuanya dapat menafsirkan dan menampilkan HTML dengan cara yang sama.
+Jika Anda ingin belajar lebih lanjut tentang HTML dan cara membuat halaman web Anda sendiri, Anda dapat mengunjungi situs web seperti W3Schools atau GeeksforGeeks, yang menawarkan tutorial, editor, dan contoh HTML online. Anda juga dapat menggunakan alat seperti W3School Spaces untuk membuat, menguji, dan menerbitkan situs web Anda sendiri dengan mudah.
+Semoga ini membantu. 
+
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+
+Uniform Resource Locator (URL) adalah alamat situs web di internet yang menunjukkan lokasi sumber daya serta protokol yang digunakan untuk mengaksesnya. URL terdiri dari beberapa komponen, yaitu:
+
+Protokol: Protokol yang digunakan untuk mengakses sumber daya, seperti HTTP, HTTPS, FTP, dan lain-lain .
+Nama domain: Lokasi server yang menyediakan sumber daya, dapat berupa alamat IP atau nama domain .
+Path: Lokasi sumber daya dalam struktur direktori server.
+Port: Nomor port di server (opsional).
+Pengidentifikasi fragmen: Pengidentifikasi fragmen (opsional).
+Sebagai contoh, URL berikut ini menjelaskan komponen-komponen URL: https://www.example.com:8080/path/to/resource?param=value#fragment
+
+Protokol: https
+Nama domain: www.example.com
+Port: 8080
+Path: /path/to/resource
+Query string: param=value
+Pengidentifikasi fragmen: fragment
+
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
