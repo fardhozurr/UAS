@@ -285,6 +285,7 @@ https://www.linkedin.com/in/zurrahman-1-204bb42a4?utm_source=share&utm_campaign=
 Link Github Profil : https://github.com/fardhozurr
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+Saya telah mengikuti Event GDSC. Tetapi saya tidak memiliki discord yang mana membuat saya tidak bisa mengikuti kegiatan yang sering diadakan melalui GDSC tersebut.
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
