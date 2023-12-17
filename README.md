@@ -263,6 +263,8 @@ Grade jurnal adalah sistem penilaian kualitas jurnal ilmiah yang biasanya diguna
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+Berikut Link belajar bahasa inggris :
+https://drive.google.com/file/d/1tzJRfHCe6v_G3C-mzT9dKR0fJvzLGe3t/view?usp=sharing
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
@@ -275,6 +277,8 @@ Grade jurnal adalah sistem penilaian kualitas jurnal ilmiah yang biasanya diguna
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+Saya telah membuat akun Linkedin dan memfollow beberapa akun inspiratif. Berikut link profil akun saya :
+https://www.linkedin.com/in/zurrahman-1-204bb42a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
