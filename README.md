@@ -84,7 +84,7 @@ graph TD
   A --> B
   B --> D
   C --> A
-  C --> D
+  D --> C
  
 
 
