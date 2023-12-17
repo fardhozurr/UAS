@@ -37,11 +37,34 @@ g.Komputer Hybrid: Merupakan jenis komputer yang menggabungkan sinyal digital da
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
+Saya sudah mengaktifkan google colab dan melakukan percobaan tentang bagaimana memperkenalkan diri dengan sejumlah identitas. Berikut link percobaan perkenalan yang dibuat di akun google colab :
+https://colab.research.google.com/drive/1BeLoZJW5sb2XTgIcEmgQbgYCilMBj73J?usp=sharing
+
 ## Mencoba Console Sistem Operasi
-
 ### Windows CMD [v] ⭐⭐⭐⭐
-
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+
+1. append = c:\docs;c:\letters edit myfile.txt
+2. arp = -s 220.0.0.161 00-50-04-62-F7-23
+3. assoc = .txt
+4. at = /delete /yes
+5. attrib = -R example.txt
+6. bcdedit = /command <argument>
+7. bootsect = /nt52 E:
+8. break = off
+9. cacls = [file name] [sub-command]
+10. call = second.bat
+11. chdir = ..
+12. chkdsk = d: /r
+13. chkntfs = /d
+14. cipher = /c myfile.txt
+15. clip = readme.txt
+16. clip  = cls
+17. cmdkey = /list
+18. color = <b><f>
+19. comp = file1.txt file2.txt /n=10 /a
+20. compact = file.txt /c 
+
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
