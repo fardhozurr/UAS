@@ -1,4 +1,4 @@
-# UAS
+![image](https://github.com/fardhozurr/UAS/assets/149001449/bb7663f2-7ee5-464d-b824-ce01c9433a7f)# UAS
 Tugas UAS 1 Pengenalan Informatika
 
 # Hello Informatics !
@@ -258,9 +258,32 @@ Grade jurnal adalah sistem penilaian kualitas jurnal ilmiah yang biasanya diguna
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
+Repository terekognisi internasional adalah tempat penyimpanan artikel jurnal atau conference yang telah diakui secara internasional. Artikel jurnal adalah karya ilmiah yang dipublikasikan dalam jurnal ilmiah, sedangkan artikel conference adalah karya ilmiah yang dipublikasikan dalam prosiding conference. Kedua jenis artikel ini biasanya diakui secara internasional dan dapat diakses melalui berbagai repository online.Beberapa contoh repository terekognisi internasional yang dapat Anda gunakan untuk mencari artikel jurnal atau conference antara lain:
+1. Google Cendekia
+Google Scholar: Google Scholar adalah mesin pencari khusus untuk artikel jurnal dan conference 
+2. Scopus
+Scopus: Scopus adalah database artikel jurnal dan conference yang diakui secara internasional 
+3. Web of Science: Web of Science adalah database artikel jurnal dan conference yang diakui secara internasional 
+4. Directory of Open Access Journals (DOAJ): DOAJ adalah direktori artikel jurnal open access yang diakui secara internasional
+5. ResearchGate
+ResearchGate: ResearchGate adalah jaringan sosial akademik yang memungkinkan para peneliti untuk berbagi artikel jurnal dan conference 
+
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+Saya telah menonton tentang Video Presentasi Tugas Akhir Jurusan Informatika yaitu tentang bagaimana menyusun power point saat akan melaksanakan tugas akhir. Berikut adalah link video yang sudah ditonton 
+https://youtu.be/z2j2wgFE6JI?si=MimVLNhx6cbHOPm_
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+Profesi terkait di informatika sangatlah banyak, Namun secara garis besar dapat ditarik menjadi beberapa bagian:
+1. Software engineer: Merupakan pekerjaan yang mengaplikasikan prinsip-prinsip pengelolaan dan optimalisasi software. Pekerjaan ini seperti analisis teknik informatika dan matematika dalam desain, development, maintenance, hingga testing software komputer atau device lain 
+2. IT consultant: Bertugas untuk menerapkan strategi teknologi informasi dalam perencanaan, pelaksanaan, hingga evaluasi di sebuah perusahaan. Seorang IT consultant harus memiliki kemampuan analisis yang kuat untuk memahami masalah klien dan membuat solusi yang efektif 
+3. Web developer: Para pakar yang memiliki spesialisasi dalam bidang pengembangan aplikasi world wide web, atau aplikasi yang dibangun pada HTTP dari sebuah web server 
+4. Data analyst: Bertanggung jawab untuk mengumpulkan, menganalisis, dan memperoleh informasi dari data yang ada 
+5. Network engineer: Bertanggung jawab untuk merancang, mengimplementasikan, dan memelihara jaringan komputer 
+6. Database administrator: Bertanggung jawab untuk merancang, mengimplementasikan, dan memelihara database 
+7. UI/UX designer: Bertanggung jawab untuk merancang antarmuka pengguna dan pengalaman pengguna yang baik 
+8. Game developer: Bertanggung jawab untuk merancang, mengembangkan, dan memelihara video game
+
+   Adapun aplikasi yang sekarang saya minati adalah IT consultant, Data analyst, UI/UX designer,  Game developer.
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 Berikut Link belajar bahasa inggris :
@@ -269,9 +292,33 @@ https://drive.google.com/file/d/1tzJRfHCe6v_G3C-mzT9dKR0fJvzLGe3t/view?usp=shari
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+Saya menemukan sejumlah lowongan kerja information technology yang bersumber dari 
+https://id.indeed.com/q-teknik-informatika-lowongan.html?vjk=15800b0d231a8761
+yaitu : 
+BCA Syariah IT Development Program
+IT Staff
+UI/UX Engineer
+Programmer
+IT Supervisor
+Software Engineer
+Admin Marketplace
+Network Engineer
+etc.
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-
+Saya menemukan berbagai macam pekerjaan freelancher ti yang bersumber dari
+https://id.indeed.com/lowongan-kerja-Freelance?vjk=fbb9b2f16aabd9f0
+yaitu:
+English Translator
+Admin Project Freelance
+Freelance Branding specialist
+Freelancer Graphic Designer
+Freelance Web Designer
+Script Writer Freelancer
+Sales Freelancer
+Freelance Model
+Frelance Photographer
+etc.
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 Topik yang diminati = Roadmap to becoming a Game Developer in 2023
