@@ -1,4 +1,4 @@
-![image](https://github.com/fardhozurr/UAS/assets/149001449/bb7663f2-7ee5-464d-b824-ce01c9433a7f)# UAS
+# UAS
 Tugas UAS 1 Pengenalan Informatika
 
 # Hello Informatics !
