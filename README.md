@@ -278,6 +278,8 @@ Grade jurnal adalah sistem penilaian kualitas jurnal ilmiah yang biasanya diguna
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
+Link Github Profil : https://github.com/fardhozurr
+
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
