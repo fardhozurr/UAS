@@ -70,27 +70,24 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
-```mermaid
-graph TD
-  subgraph Algoritma
-    A[Input]
-    B[Manage]
-    C[Login]
-    D[Make List]
-  end
 
-  A --> B
-  B --> D
-  C --> A
-  D --> C
+
+
+
+
+![flowchart drawio](https://github.com/fardhozurr/UAS/assets/149001449/401c100b-1a59-476a-8a3f-558dae0b9343)
+
+
+
+
  
 
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 Referensi [1](https://scratch.mit.edu/)
+
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
