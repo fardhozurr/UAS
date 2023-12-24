@@ -246,7 +246,71 @@ https://youtu.be/K66E6HhAAqk?si=em72k9-KC42twjBw
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
+import org.jfree.chart.ChartFactory;
+import org.jfree.chart.ChartPanel;
+import org.jfree.chart.JFreeChart;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.data.category.DefaultCategoryDataset;
+import javax.swing.JFrame;
+
+public class BarChartExample {
+    public static void main(String[] args) {
+        
+        DefaultCategoryDataset dataset = new DefaultCategoryDataset();
+        dataset.addValue(50, "Category 1", "Series 1");
+        dataset.addValue(60, "Category 1", "Series 2");
+        dataset.addValue(40, "Category 2", "Series 1");
+        dataset.addValue(70, "Category 2", "Series 2");
+
+        JFreeChart barChart = ChartFactory.createBarChart(
+                "Contoh Grafik Batang",
+                "Kategori",
+                "Jumlah",
+                dataset,
+                PlotOrientation.VERTICAL,
+                true, true, false);
+                ChartPanel chartPanel = new ChartPanel(barChart);
+        chartPanel.setPreferredSize(new java.awt.Dimension(500, 270));
+        JFrame frame = new JFrame("Bar Chart");
+        frame.setContentPane(chartPanel);
+        frame.pack();
+        frame.setVisible(true);
+    }
+}
+
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+
+import org.jfree.chart.ChartFactory;
+import org.jfree.chart.ChartPanel;
+import org.jfree.chart.JFreeChart;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.data.category.DefaultCategoryDataset;
+import javax.swing.JFrame;
+
+public class BarChartExample {
+    public static void main(String[] args) {
+     
+        DefaultCategoryDataset dataset = new DefaultCategoryDataset();
+        dataset.addValue(50, "Category 1", "Series 1");
+        dataset.addValue(60, "Category 1", "Series 2");
+        dataset.addValue(40, "Category 2", "Series 1");
+        dataset.addValue(70, "Category 2", "Series 2");
+
+        JFreeChart barChart = ChartFactory.createBarChart(
+                "Contoh Grafik Batang",
+                "Kategori",
+                "Jumlah",
+                dataset,
+                PlotOrientation.VERTICAL,
+                true, true, false);
+                ChartPanel chartPanel = new ChartPanel(barChart);
+        chartPanel.setPreferredSize(new java.awt.Dimension(500, 270));
+        JFrame frame = new JFrame("Bar Chart");
+        frame.setContentPane(chartPanel);
+        frame.pack();
+        frame.setVisible(true);
+    }
+}
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 Saya telah mendaftar dan mengeksplorasi HuggingFace tentang Magic Animate yang mana terdapat berbagai referensi gambar dan banyak motion sequence. Berikut link profil HuggingFace saya dan tangkapan layar tentang eksplorasi dari Hugging Face yang saya lakukan.
@@ -271,10 +335,14 @@ https://www.kaggle.com/fardhozurrahman
 
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+Saya telah mendownload mqtt dan melakukan operasi bersama panduan pak insan di kelas.
+
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
+
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
