@@ -216,14 +216,27 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+Saya telah membuat akun dan mencoba penggunaan sistem manajemen konten sebagaiamana yang tertera di link berikut.
+https://fardhoo.wordpress.com/2023/11/29/penting-menjaga-kesehatan-tubuh/
+https://fardhoo.wordpress.com/2023/12/25/kisah-sahabat-nabi-yang-buruk-rupa-namun-jadi-rebutan-bidadari/
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+Saya sapat menggunakan tag HTML seperti <img>, <audio>, dan <video> untuk menampilkan gambar, audio. Saya juga mampu menggunakan Content Management System (CMS) seperti WordPress, yang memungkinkan saya untuk mengelola konten multimedia dengan mudah. saya dapat mengunggah gambar, audio, dan video ke CMS Anda dan menambahkannya ke halaman web Anda dengan mudah. Ada banyak aplikasi yang memungkinkan Anda untuk mengakses konten multimedia. Misalnya, Anda dapat menggunakan aplikasi seperti VLC Media Player untuk memutar video dan audio, atau aplikasi seperti Adobe Photoshop untuk mengedit gambar. Berikut contoh salah satu bahwa saya dapat menggunakan aplikasi mengedit gambar menggunakan Adobe Photoshop.
+
+![WhatsApp Image 2023-12-25 at 01 14 32](https://github.com/fardhozurr/UAS/assets/149001449/43f09cd0-30fd-4926-8f18-beabc1a2e30e)
+
+
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+Saya telah mencoba dan mampu menguasai bagaimana mengedit konten multimedia yang terdiri dari image, audio, dan video. Salah satu apliksi yang saya kuasai dan digunakan dalam mengedit konten tersebut yaitu Canva, Pisc Art, Capcut dll.Berikut link dari salah satu contoh bahwa saya telah mencoba mengedit sebuah video.
+https://youtu.be/K66E6HhAAqk?si=em72k9-KC42twjBw
+
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
+
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
