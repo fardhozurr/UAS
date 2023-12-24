@@ -249,8 +249,26 @@ https://youtu.be/K66E6HhAAqk?si=em72k9-KC42twjBw
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+Saya telah mendaftar dan mengeksplorasi HuggingFace tentang Magic Animate yang mana terdapat berbagai referensi gambar dan banyak motion sequence. Berikut link profil HuggingFace saya dan tangkapan layar tentang eksplorasi dari Hugging Face yang saya lakukan.
+https://huggingface.co/fardhozurr
+
+
+
+![sslg](https://github.com/fardhozurr/UAS/assets/149001449/d4ab15e7-c301-421c-8c33-51d9b8172fdc)
+
+
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+Saya telah mendaftar dan melakukan eksplorasi tentang Jerawat, jenis-jenis jerawat di kulit manusia dan beberapa gamber jenis jerawat tersebut di Kaggle. Berikut adalah link profil akun Kaggle saya dan tangkapan layar tentang eksplorasi Acne pada Kaggle.
+https://www.kaggle.com/fardhozurrahman
+
+
+
+![SSWOI](https://github.com/fardhozurr/UAS/assets/149001449/277132dc-a65f-44d8-8388-ccbda4fe06c0)
+
+
+
+
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
