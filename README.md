@@ -184,7 +184,8 @@ Pengidentifikasi fragmen: fragment
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+Saya telah mencoba melacak satu link domain yaitu https://www.detik.com/hikmah/kisah/d-6816483/kisah-nabi-musa-as-dan-dua-pemuda-yang-berkelahi
+ Link yang saya  berikan ke pelacak mengarah ke artikel yang menceritakan kisah Nabi Musa AS dan dua pemuda yang berkelahi . Artikel tersebut menceritakan bagaimana Nabi Musa AS menyelesaikan perselisihan antara dua pemuda yang sedang bertengkar. Nabi Musa AS mengajarkan mereka untuk saling memaafkan dan berdamai.
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
