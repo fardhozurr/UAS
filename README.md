@@ -209,6 +209,14 @@ Referensi []
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+Saya telah mencoba menggunakan penggunaan developer tools pada web browser di chrome. Saya bisa  menggunakan fitur Developer Tools dan  memeriksa elemen HTML, mengecek CSS, memantau jaringan, dan lain-lain. Berikut tangkapan layar ketika saya mencoba developer tools.
+
+
+
+![ssss](https://github.com/fardhozurr/UAS/assets/149001449/928666f8-9e02-4f16-9807-fa474e69d439)
+
+
+
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
@@ -235,7 +243,7 @@ https://youtu.be/K66E6HhAAqk?si=em72k9-KC42twjBw
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 
-## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+## Mencoba pemprosesan konten multimedia (image, audio) menggunakan google colab [v] ⭐⭐⭐
 
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
