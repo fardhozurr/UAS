@@ -134,7 +134,8 @@ Saya telah mendaftar dan mengeksplorasi Penggunaan HackerRank. Berikut link prof
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-Link YouTube :
+Link YouTube : https://youtu.be/NGIhOAKyWOc?feature=shared
+https://youtu.be/R82CDMvuqIQ?feature=shared
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
