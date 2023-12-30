@@ -88,7 +88,12 @@ Saya telah mencoba Terminal Linux dengan menggunakan google colab. Berikut adala
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-Referensi [1](https://scratch.mit.edu/)
+Scratch adalah sebuah lingkungan pemrograman visual yang dirancang untuk mempermudah pembelajaran pemrograman, terutama bagi pemula, anak-anak, dan mereka yang belum memiliki pengalaman dalam coding. Scratch dikembangkan oleh Lifelong Kindergarten Group di Media Lab MIT.
+
+Fitur utama Scratch melibatkan pemrograman menggunakan blok-blok grafis yang dapat diatur dan digabungkan. Pengguna dapat membuat animasi, permainan, dan proyek interaktif lainnya dengan menyusun blok-blok tersebut secara visual tanpa harus menulis kode dalam bahasa pemrograman tradisional.
+
+
+Saya telah mencoba scracth bahasa Indonesia dan mencoba merangkai sebuah aktivitas didalam game yang mana ketika saya menekan tombol space maka karakter di dalam game mengucapkan halo selama 2 detik
 
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
@@ -125,6 +130,44 @@ public class BubbleSortExample {
 }
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+
+IDE adalah singkatan dari "Integrated Development Environment" atau dalam bahasa Indonesia dikenal sebagai "Lingkungan Pengembangan Terpadu." IDE adalah suatu perangkat lunak yang menyediakan berbagai alat dan fasilitas yang terintegrasi untuk mendukung pengembangan perangkat lunak.
+
+Contoh IDE yang umum digunakan antara lain:Visual Studio: Dikembangkan oleh Microsoft, mendukung berbagai bahasa seperti C#, VB.NET, dan lainnya.
+
+
+Berikur adalah beberapa control yang sering kali digunakan dalam Visual Code yaitu:
+
+Simpan File:
+Windows/Linux: Ctrl + S
+macOS: Cmd + S
+
+Buka atau Pindah Antara Tab Editor:
+Pindah ke tab sebelumnya: Ctrl + Tab##
+Pindah ke tab berikutnya: Ctrl + Page Down
+Pindah ke tab sebelumnya:UN Ctrl + Page Up
+
+Pencarian Global:
+Buka panel pencarian: Ctrl + Shift + F
+
+Navigasi pada File atau Class:
+Buka Go to Definition: F12
+Kembali dari Go to Definition: Alt + Left Arrow (Windows/Linux), Cmd + - (macOS)
+
+Menjalankan Program (Jika Aplikabel):
+Menjalankan program: F5
+Berhenti atau hentikan program: Shift + F5
+
+Membuka Terminal:
+Buka terminal: Ctrl + (Tanda kutip terbalik, di sebelah kiri tombol "1" pada keyboard)
+
+Auto Format (Pada Bahasa yang Mendukung):
+Auto format kode: Shift + Alt + F
+
+Undo dan Redo:
+Undo: Ctrl + Z
+Redo: Ctrl + Shift + Z
+
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
