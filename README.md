@@ -443,6 +443,12 @@ https://drive.google.com/file/d/1tzJRfHCe6v_G3C-mzT9dKR0fJvzLGe3t/view?usp=shari
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
+Hello Talk merupakan salah satu aplikasi belajar bahasa Inggria yang sering digunakan dalam belajar dasar-dasar bahasa Inggris seperti mengenal berbagai Vocab yang sering muncul dalam kehidupan sehari-hari
+
+Berikut link dari tangkapan layar ketika menjalankan aplikasi Hello Talk
+
+https://drive.google.com/file/d/16-vWGmvzmtV8UA8h6uSW15RVLq7ZQIOf/view?usp=drivesdk
+
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 Saya menemukan sejumlah lowongan kerja information technology yang bersumber dari 
 https://id.indeed.com/q-teknik-informatika-lowongan.html?vjk=15800b0d231a8761
