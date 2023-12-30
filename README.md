@@ -506,7 +506,8 @@ Link Github Profil : https://github.com/fardhozurr
 Saya telah mengikuti Event GDSC. Tetapi saya tidak memiliki discord yang mana membuat saya tidak bisa mengikuti kegiatan yang sering diadakan melalui GDSC tersebut.
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+Nama Buku: Pengenalan Teknologi Komputer dan Informasi
 
-   
+Inspirasi yang terdapat di dalam buku tersebut adalah bagaimana analisis data dan statistik dapat memberikan keuntungan kompetitif dalam bisbol. Meskipun bukan buku informatika murni, namun membahas penggunaan data dalam mengambil keputusan.
   
 
