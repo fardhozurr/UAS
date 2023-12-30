@@ -286,14 +286,21 @@ https://youtu.be/K66E6HhAAqk?si=em72k9-KC42twjBw
 
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+Saya telah mencoba melakukan pembuatan game menggunakan logo. Berikut tangkapan layar ketika saya mengoperasikan Logo:
+https://drive.google.com/drive/folders/169EMmPtzClF5s5wSSV-5R_QmoCI1awbS
 
 
 ## Mencoba pemprosesan konten multimedia (image, audio) menggunakan google colab [v] ⭐⭐⭐
 
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+Saya telah mencoba Web Tool AI Discriminative. Berikut tangkapan layar ketika saya menggunakan web tersebut
+https://drive.google.com/drive/folders/16Mg1Ql4L0c710T6xlrYRfB1aWNXqeaOy
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+Saya telah mencoba Web Tool AI Generative yang mana hal yersebut saya lakukan menggunakan Bing. 
+Berikut tangkapan layar nya
+https://drive.google.com/drive/folders/16OVoB1W72B28msLuMJmBrfhZRjgKanHI
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
