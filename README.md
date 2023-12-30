@@ -247,7 +247,9 @@ Referensi []
 
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
+Saya telah mencoba penggunaan web hosting untuk halaman HTML yang mana dengan domain "fstoree"
+Berikut tangkapan layar ketika saya mencobanya
+https://drive.google.com/file/d/16UqQFVTJNwI3Y-6atQ6sqITBu9FIurNH/view?usp=drivesdk
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
